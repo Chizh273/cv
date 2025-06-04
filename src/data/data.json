@@ -1,0 +1,823 @@
+{
+  "name": "Volodymyr Vavrynyuk",
+  "position": "Full-Stack Developer",
+  "contacts": [
+    {
+      "label": {
+        "iconDefinition": {
+          "icon": "Envelope"
+        },
+        "iconVerticalAlign": "center",
+        "text": "Email:"
+      },
+      "value": "<a href='mailto:chizh273@gmail.com' target='_blank'>chizh273@gmail.com</a>"
+    },
+    {
+      "label": {
+        "iconDefinition": {
+          "icon": "Github"
+        },
+        "text": "GitHub:",
+        "iconVerticalAlign": "center"
+      },
+      "value": "<a href='https://github.com/Chizh273' target='_blank'>github.com/Chizh273</a>"
+    },
+    {
+      "label": {
+        "iconDefinition": {
+          "icon": "Drupal"
+        },
+        "text": "Drupal.org:",
+        "iconVerticalAlign": "center"
+      },
+      "value": "<a href='https://www.drupal.org/u/chizh273' target='_blank'>drupal.org/u/chizh273</a>"
+    }
+  ],
+  "summary": "A Full-Stack Developer with over 8+ years of experience in web development, specializing in Drupal and Angular. Proficient in building scalable and maintainable applications, with a strong focus on performance and user experience. Experienced in leading projects, mentoring junior developers, and collaborating with cross-functional teams to deliver high-quality software solutions.",
+  "projects": [
+    {
+      "title": "Wildauto.com.ua",
+      "period": "December 2024 - January 2025",
+      "position": "Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 11"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Github"
+          },
+          "text": "Github actions"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Telegram"
+          },
+          "text": "Telegram integration"
+        }
+      ],
+      "description": "WildAuto is an informational website showcasing a wide selection of vehicles available in Ukraine. The platform allows users to explore detailed car listings, view specifications.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Developed a telegram bot for making automatic telegram posts into a channel",
+            "Developed a telegram bot for notifications after the contact us form submission",
+            "Developed search page with facet filters",
+            "Extended better_exposed_filters to disable auto submit functionality on mobile devices (<a href='https://www.drupal.org/project/better_exposed_filters/issues/3452004' target='_blank'>https://www.drupal.org/project/better_exposed_filters/issues/3452004</a>)",
+            "Created github actions for linting and deployment to Pantheon"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ecommerce sites",
+      "period": "November 2024 - May 2025",
+      "position": "Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 10/11"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DrupalCommerce"
+          },
+          "text": "Drupal Commerce"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Pantheon"
+          },
+          "text": "Pantheon"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Acquia"
+          },
+          "text": "Acquia"
+        },
+        {
+          "iconDefinition": {
+            "icon": "PlatformSh"
+          },
+          "text": "Platform.sh"
+        }
+      ],
+      "description": "A bunch of e-commerce sites for different clients that were created with Drupal Commerce.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Developed a module for creating product bundles (<a href='https://www.drupal.org/project/commerce_bundle_trait' target='_blank'>https://www.drupal.org/project/commerce_bundle_trait</a>)",
+            "Developed API integrations with external services to manage products, orders, payments, user data, etc",
+            "Developed a module for Permutive integration on the site",
+            "Developed a credit system, credits can be added to a user by an admin, and they will be used for recurring orders to make them free if there are enough credits"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Church portal",
+      "period": "October 2024 - November 2024",
+      "position": "Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 11"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        }
+      ],
+      "description": "A church portal that provides information about the church, its services, and events.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Created a style plugin for the views to render each content type in its own section",
+            "Attached the load more pager for each section",
+            "Developed an admin page to set human-readable names and weight for each section",
+            "Integrated sections with facet filters"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Campaign platform",
+      "period": "September 2024 - October 2024",
+      "position": "Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 10/11"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Pantheon"
+          },
+          "text": "Pantheon"
+        }
+      ],
+      "description": "A platform for managing campaigns, allowing users to apply to campaigns, verify their email, and log in with a one-time link.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Developed a flow for users to apply to the campaign (each campaign can have its own application form)",
+            "Developed a flow for mail verification and a one-time login after applying to the campaign",
+            "Developed search_api view that handles dynamic application form data of the campaign.",
+            "Developed a creating/duplicating functionality for campaigns that automatically creates all landing pages, webforms, related nodes, etc.",
+            "Extended s3fs_cors files validation to add custom async validators (<a href='https://www.drupal.org/project/s3fs_cors/issues/3474669' target='_blank'>https://www.drupal.org/project/s3fs_cors/issues/3474669</a>)"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Official website for the city",
+      "period": "December 2023 - August 2024",
+      "position": "Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 10"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Lando"
+          },
+          "text": "Lando"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Acquia"
+          },
+          "text": "Acquia"
+        }
+      ],
+      "description": "The official website for the city that provides information about the city, its services, and events.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Investigation SAML possible implementation",
+            "Created scripts to automatically replace absolute URLs with relative in all text fields for all entity types",
+            "Fixing accessibility issues",
+            "Extending domain redirect module to add redirect status code",
+            "Developed a module for resolving the main entry when there are many the same menu links"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Publication storage and distribution platform",
+      "period": "September 2023 - December 2023",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 10"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        },
+        {
+          "text": "Rest API"
+        },
+        {
+          "text": "Migration"
+        }
+      ],
+      "position": "Drupal developer",
+      "description": "A platform for storing and distributing publications, providing a API for searching of publications.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Developed XML migration for publications",
+            "Created an admin search API view for publication searching",
+            "Created REST API for exposing publication search with Rest endpoints",
+            "Created a connector module for the Rest API that displays publications with search functionalities"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Global Public Health Hub",
+      "period": "May 2023 - September 2023",
+      "position": "Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 9/10"
+        },
+        {
+          "iconDefinition": {
+            "icon": "DDEV"
+          },
+          "text": "DDEV"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        },
+        {
+          "text": "Group module"
+        },
+        {
+          "iconDefinition": {
+            "icon": "GraphQL"
+          },
+          "text": "GraphQL"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Acquia"
+          },
+          "text": "Acquia"
+        }
+      ],
+      "description": "A leading resource for research, education, and insights on global public health issues.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Updating Drupal to version 10 (Also, updating Group module from 1.x to 2.x version)",
+            "Added permission to group roles for managing entity revisions",
+            "Created a per-group setting for the type of content to be shown in a view",
+            "Created feed importer for medias and attach these medias to entities after importing"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BazaIT",
+      "period": "March 2023 - May 2023",
+      "position": "Angular developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Angular"
+          },
+          "text": "Angular"
+        },
+        {
+          "iconDefinition": {
+            "icon": "NgRx"
+          },
+          "text": "NgRx"
+        },
+        {
+          "text": "SSR"
+        }
+      ],
+      "description": "IT recruiting platform by recruiters for the talents who want to get a new job and grow in Tech. BazaIT creates a network of talented people and IT products.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Implemented a search page with a dynamically built search form",
+            "Connected a couple of modules to NGRX",
+            "Created a dynamic form builder service",
+            "Created a service for transforming UUIDs to names and saving data to GET params",
+            "Code refactoring. Creating abstract classes, shared components, etc, to unify business logic"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sites migration from Episerver to Drupal",
+      "period": "December 2021 - February 2023",
+      "position": "Full-stack Drupal developer",
+      "description": "A project for migrating a bunch of sites from Episerver to Drupal. The project includes several sites with different functionalities and requirements.",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 9"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Webpack"
+          },
+          "text": "Webpack"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Bootstrap"
+          },
+          "text": "Bootstrap"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Docker"
+          },
+          "text": "Docker"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Pantheon"
+          },
+          "text": "Pantheon"
+        }
+      ],
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Created base theme and configured build process with webpack",
+            "Creating content structure",
+            "Configuring meta tags, caching, etc",
+            "Created views plugins for relationship, filter, and sort"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Internet-shop of manufacturer of panels of wood wool",
+      "period": "March 2022 - April 2022",
+      "position": "React developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "React"
+          },
+          "text": "React"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Redux"
+          },
+          "text": "Redux"
+        }
+      ],
+      "description": "An internet shop for a manufacturer of panels of wood wool.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Implemented calculation area of panels on the draggable wall",
+            "Implemented filtering process of products and available filters based on the prevision filter selection",
+            "Consultation with flow building of generating PDF reports on React side."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Company Multi-siting Platform",
+      "period": "July 2021 - November 2021",
+      "position": "Full-stack Drupal developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 9"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Pantheon"
+          },
+          "text": "Pantheon"
+        },
+        {
+          "iconDefinition": {
+            "icon": "SearchAPI"
+          },
+          "text": "Search API"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Solr"
+          },
+          "text": "Solr"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Docker"
+          },
+          "text": "Docker"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Bootstrap"
+          },
+          "text": "Bootstrap"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Gulp"
+          },
+          "text": "Gulp"
+        }
+      ],
+      "description": "A multi-site platform for a company that provides services in different areas.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Developed a module for safe-removing non-drupal columns from entity tables",
+            "Created a Solr Search View",
+            "Developed event registration process with webform",
+            "Developed a module that provides a computed field for displaying view with pre-selected filters based on entity fields"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CRM system for chain of stores",
+      "period": "July 2020 - June 2021",
+      "position": "Angular developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Angular"
+          },
+          "text": "Angular"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Angular"
+          },
+          "text": "Angular Material"
+        },
+        {
+          "iconDefinition": {
+            "icon": "NgRx"
+          },
+          "text": "NgRx"
+        },
+        {
+          "text": "SignalR"
+        }
+      ],
+      "description": "A CRM system for a chain of stores that provides functionality for managing products, orders, and employees.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Developed a timesheet module for managing employees' time",
+            "Created an observation module for managing employees' quarantine time",
+            "Built a role management system based on user role/unit/department",
+            "Created notification module with SignalR",
+            "Supported and refactored the existing functional",
+            "PRs reviewing"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Healthcare blog platform",
+      "period": "July 2019 - October 2019",
+      "position": "Back-end developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 8"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Lando"
+          },
+          "text": "Lando"
+        },
+        {
+          "iconDefinition": {
+            "icon": "MySQL"
+          },
+          "text": "MySQL"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Behat"
+          },
+          "text": "Behat"
+        }
+      ],
+      "description": "Migration of the healthcare blog platform from custom PHP framework to Drupal 8.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Preparing complex SQL queries for selecting data from the old database.",
+            "Created custom migration sources for selecting entities from the old database.",
+            "Developed content tagging system to mark imported content if it has import errors",
+            "Adding behat test for each migration"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vehicle History Platform",
+      "period": "November 2018 - June 2019",
+      "position": "Full-stack developer",
+      "tech": [
+        {
+          "iconDefinition": {
+            "icon": "Drupal"
+          },
+          "text": "Drupal 8"
+        },
+        {
+          "iconDefinition": {
+            "icon": "Docker"
+          },
+          "text": "Docker"
+        },
+        {
+          "iconDefinition": {
+            "icon": "MySQL"
+          },
+          "text": "MySQL"
+        },
+        {
+          "iconDefinition": {
+            "icon": "PlatformSh"
+          },
+          "text": "Platform.sh"
+        }
+      ],
+      "description": "A platform for checking vehicle history, providing information about previous owners, accidents, and other relevant data.",
+      "lists": [
+        {
+          "title": "Problems were solved:",
+          "items": [
+            "Implemented a checkout process with Adyen API integration and generation PDF invoices",
+            "Developed pricing calculator based on the how many countries a car was registered in",
+            "Implemented security system to prevent bot attacks"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor",
+      "institution": "Lutsk National Technical University",
+      "specialization": "Vocational Education. Computer Technologies",
+      "period": "2014 - 2018"
+    }
+  ],
+  "technologies": [
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "PHP"
+        },
+        "iconVerticalAlign": "center",
+        "text": "PHP"
+      },
+      "score": 9,
+      "description": "Expert in modern PHP (OOP, Composer, PSR standards). Developed custom modules, APIs, and integrations for large-scale Drupal and custom projects. Have experience with Symfony and Laravel frameworks."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "Drupal"
+        },
+        "iconVerticalAlign": "center",
+        "text": "Drupal"
+      },
+      "score": 9,
+      "description": "8+ years of experience with Drupal 8/9/10/11. Site building, custom module/theme development, migrations, performance, and security."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "SQL"
+        },
+        "iconVerticalAlign": "center",
+        "text": "SQL"
+      },
+      "score": 9,
+      "description": "Database design, query optimization, and migrations. Experience with MySQL, MariaDB, and PostgreSQL in high-load environments."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "JS"
+        },
+        "iconVerticalAlign": "center",
+        "text": "JavaScript"
+      },
+      "score": 8,
+      "description": "Modern JS/TS (ES6+), async/await, SPA development, and integration with REST/GraphQL APIs."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "Angular"
+        },
+        "iconVerticalAlign": "center",
+        "text": "Angular"
+      },
+      "score": 7,
+      "description": "Developed and maintained Angular applications with NgRx, SSR, and Material. Built dynamic forms and state management."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "React"
+        },
+        "iconVerticalAlign": "center",
+        "text": "React"
+      },
+      "score": 7,
+      "description": "Built and supported React apps with Redux, hooks, and SSR. Experience with component libraries and custom UI logic."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "NodeJS"
+        },
+        "iconVerticalAlign": "center",
+        "text": "Node.JS"
+      },
+      "score": 7,
+      "description": "REST API development with Express and NestJS, backend services, and automation scripts."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "CSS"
+        },
+        "iconVerticalAlign": "center",
+        "text": "CSS"
+      },
+      "score": 6,
+      "description": "Responsive layouts with Flexbox/Grid, preprocessors (Sass), and utility-first frameworks (Tailwind)."
+    },
+    {
+      "tech": {
+        "iconDefinition": {
+          "icon": "Git"
+        },
+        "iconVerticalAlign": "center",
+        "text": "Git"
+      },
+      "score": 9,
+      "description": "Proficient in Git workflows, branching strategies, and CI/CD integration (GitHub Actions, GitLab CI)."
+    }
+  ]
+}
